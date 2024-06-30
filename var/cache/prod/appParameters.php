@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'divyansh',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '8VNmrEn2NYSN6HOzwqqwy2Re4Qa97nGhBJRHdsFxNStOzPsMLOHs9DQjGAqArusN',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2024-06-26',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'JSoD2MbE29vKvy1OadfUcYdDZeunBtxGS92R2wQRo1PRg4eaf8tIK92MX44xF8ns',
+    'cookie_iv' => 'QOWRKw7t0aBJSJJiz3mV0w96Zk4QYsPb',
+    'new_cookie_key' => 'def00000014457f7e947e7d975dc8d1558c658dcbacedeb0f157ef7b4087aa889614586fb36cffd930cefde6c8da916d330294ffe1866edd476024a4a6ba1a4b50264624',
+  ),
+);
