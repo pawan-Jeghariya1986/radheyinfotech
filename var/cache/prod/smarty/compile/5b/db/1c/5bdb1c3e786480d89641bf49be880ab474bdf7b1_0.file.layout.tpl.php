@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2024-06-26 19:08:50
+/* Smarty version 4.3.1, created on 2024-06-30 19:56:36
   from 'C:\xampp\htdocs\divyansh\radheyinfotech.com\admin4252vctx2cuvzq6tmdu\themes\default\template\layout.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_667c19ea3d0575_03860295',
+  'unifunc' => 'content_66816b1ca0d408_93119599',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '5bdb1c3e786480d89641bf49be880ab474bdf7b1' => 
     array (
       0 => 'C:\\xampp\\htdocs\\divyansh\\radheyinfotech.com\\admin4252vctx2cuvzq6tmdu\\themes\\default\\template\\layout.tpl',
-      1 => 1719382774,
+      1 => 1719754859,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_667c19ea3d0575_03860295 (Smarty_Internal_Template $_smarty_tpl) {
+function content_66816b1ca0d408_93119599 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\xampp\\htdocs\\divyansh\\radheyinfotech.com\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
 echo $_smarty_tpl->tpl_vars['header']->value;?>
 

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2024-06-26 19:08:49
+/* Smarty version 4.3.1, created on 2024-06-30 19:56:35
   from 'C:\xampp\htdocs\divyansh\radheyinfotech.com\admin4252vctx2cuvzq6tmdu\themes\default\template\search_form.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_667c19e947e955_65609050',
+  'unifunc' => 'content_66816b1beefbf8_31210091',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '5dc751666b9aba650f0452e5f214434315a9e944' => 
     array (
       0 => 'C:\\xampp\\htdocs\\divyansh\\radheyinfotech.com\\admin4252vctx2cuvzq6tmdu\\themes\\default\\template\\search_form.tpl',
-      1 => 1719382774,
+      1 => 1719754859,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_667c19e947e955_65609050 (Smarty_Internal_Template $_smarty_tpl) {
+function content_66816b1beefbf8_31210091 (Smarty_Internal_Template $_smarty_tpl) {
 ?><form id="header_search" class="component bo_search_form" method="post" action="<?php echo $_smarty_tpl->tpl_vars['baseAdminUrl']->value;?>
 index.php?controller=AdminSearch&amp;token=<?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['getAdminToken'][0], array( array('tab'=>'AdminSearch'),$_smarty_tpl ) );?>
 " role="search">

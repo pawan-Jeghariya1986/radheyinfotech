@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2024-06-26 19:08:50
+/* Smarty version 4.3.1, created on 2024-06-30 19:56:21
   from 'C:\xampp\htdocs\divyansh\radheyinfotech.com\admin4252vctx2cuvzq6tmdu\themes\default\template\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_667c19ea118a30_14538766',
+  'unifunc' => 'content_66816b0d4435f7_73249761',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '5a32922b7c65782b4c4724611b29a1ff468fb0b9' => 
     array (
       0 => 'C:\\xampp\\htdocs\\divyansh\\radheyinfotech.com\\admin4252vctx2cuvzq6tmdu\\themes\\default\\template\\footer.tpl',
-      1 => 1719382774,
+      1 => 1719754859,
       2 => 'file',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:error.tpl' => 1,
   ),
 ),false)) {
-function content_667c19ea118a30_14538766 (Smarty_Internal_Template $_smarty_tpl) {
+function content_66816b0d4435f7_73249761 (Smarty_Internal_Template $_smarty_tpl) {
 ?>         <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['hook'][0], array( array('h'=>'displayAdminEndContent'),$_smarty_tpl ) );?>
 
 	</div>
